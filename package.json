@@ -22,7 +22,7 @@
     "brain.js": "^1.6.1",
     "concurrently": "^4.1.1",
     "electron": "^5.0.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fft-js": "0.0.12",
     "fuse.js": "^3.4.5",
     "google-tasks-api": "^1.2.0",
